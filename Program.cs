@@ -3,3 +3,4 @@ using New_folder;
 
 Console.WriteLine("Hello, World!");
 Name name = new();
+// name.Scholl.Name

@@ -9,6 +9,7 @@ namespace New_folder
     {
         public string Surname { get; set; }
         public string MiddleName { get; set; }
+        public School Scholl {get; set;}
         public class School
         {
             public string Name { get; set; }
